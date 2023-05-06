@@ -32,6 +32,7 @@ Website | Description
 [Free Photoshop Templates](https://gitu.net/en/) | Free PSD and Adobe Xd templates.
 [Free Sketch App Resources](https://sketchfav.com/en/) | Free high quality icons, mockups and UI kits for Sketch App.
 [Themeselection](https://themeselection.com/) | Selected high quality, modern design, professional and easy-to-use Free Bootstrap Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster!
+[DesignSpiration](https://www.designspiration.com/) | Source of general design inspiration
 [GetWaves](https://getwaves.io/) | SVG random waves generator (available as Figma plugin)
 [BlobMaker](https://www.blobmaker.app/) | SVG random blob generator (available as Figma plugin)
 
